@@ -36,6 +36,14 @@ Este projeto existe para treinar:
 
 ---
 
+## Jogar Agora
+
+Funciona em **PC** e **mobile**:
+
+- https://lucasalto5.github.io/trollbase.github.com/
+
+---
+
 ## Tecnologias
 
 - HTML5
@@ -119,4 +127,3 @@ Se quiser fortalecer o projeto, sua ajuda contribui para:
 
 Este projeto está sob a licença **MIT**.  
 Veja o arquivo `LICENSE` para mais detalhes.
-
