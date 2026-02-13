@@ -94,7 +94,7 @@ A ideia é evoluir este repositório como laboratório de estudo em game dev, me
 
 ---
 
-## Apoie o projeto (PIX)
+## Apoie o projeto 
 
 Se quiser fortalecer o projeto, sua ajuda contribui para:
 - Criar fases mais elaboradas
@@ -102,11 +102,7 @@ Se quiser fortalecer o projeto, sua ajuda contribui para:
 - Lançar novos jogos e protótipos
 
 **Dados para doação**
-- **Chave PIX:** `SUA_CHAVE_PIX_AQUI`
-- **Favorecido:** `SEU_NOME_AQUI`
-- **Mensagem opcional:** Apoio ao projeto TROLL BASE
-
-Se você quiser, eu também adiciono um **QR Code do PIX** aqui no README.
+- **Discord** `rogerinhoxr`
 
 ---
 
@@ -121,4 +117,6 @@ Se você quiser, eu também adiciono um **QR Code do PIX** aqui no README.
 
 ## Licença
 
-Defina aqui a licença do projeto (ex.: MIT).
+Este projeto está sob a licença **MIT**.  
+Veja o arquivo `LICENSE` para mais detalhes.
+
