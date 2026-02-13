@@ -20,4 +20,4 @@
     }
 };
 
-new Phaser.Game(config);
+window.trollBaseGame = new Phaser.Game(config);
